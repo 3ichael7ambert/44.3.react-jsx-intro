@@ -1,0 +1,24 @@
+.tweet {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 8px;
+  }
+  
+  .tweetHeader {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+  }
+  
+  .username {
+    font-weight: bold;
+  }
+  
+  .date {
+    color: #888;
+  }
+  
+  .tweetMessage p {
+    margin: 0;
+  }
